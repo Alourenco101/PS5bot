@@ -1,7 +1,7 @@
 import * as fs from 'fs'
 import { GluegunToolbox } from 'gluegun'
 import * as schedule from 'node-schedule'
-import { TARGET, WALMART } from '../contants'
+import { TARGET, WALMART, TARGET_DIGITAL } from '../contants'
 import { scrapeTarget } from '../utils/scrape-target-util'
 import { scrapeDirect } from '../utils/scrape-direct-util'
 import { scrapeWalmart } from '../utils/scrape-walmart-util'
