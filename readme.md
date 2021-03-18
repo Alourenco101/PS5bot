@@ -1,14 +1,11 @@
 # PS5bot
 
-ps5bot is a dead simple auto-checkout bot to buy a PlayStation 5 from PlayStation Direct, Target, and Walmart (planned: Gamestop, BestBuy).
+ps5bot a simple auto-checkout bot to buy a PlayStation 5 from PlayStation Direct, Target, and Walmart (planned: Gamestop, BestBuy).
 
-![prestine image of naked man punching tank go boom](https://media.giphy.com/media/ECpTuaJw4kRq0/giphy.gif)
 
 ## Installation overview
 
 Linux, macOS, and Windows are all capable operating systems.
-
-You do not need any computer skills, smarts, or anything of that nature. You are very capable as you have made it this far. Some basic understanding how a terminal, git, and or Node.js is a bonus, but that does not limit you to getting PS5bot running!
 
 ### Installation
 
